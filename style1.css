@@ -1,9 +1,9 @@
 body{
-    background-color: #BFECFF;
+    background-color: rgb(255, 246, 227);
 }
 
 .box {
-    background-color: #FFF6E3;
+    background-color: rgb(191, 236, 255);
     display: flex;
     padding: 30px;
     margin: 50px;
@@ -11,7 +11,7 @@ body{
     border-radius: 7px;
     justify-content: center;
     text-align: center;
-    font-family:'Times New Roman', Times, serif
+    font-family: sans-serif;
 }
 
 .box-1 {

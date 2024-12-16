@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=hi, initial-scale=1.0">
     <title>Kumpulan Cerita Legenda di Indonesia</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="stylee.css">
+    <link rel="stylesheet" href="style.css">
 
 </head>
 <body class>
@@ -73,13 +73,8 @@
                             <input type="text" name="judul"class="form-control">
                         </div>
                         <div class="mb-3">
-                            <label for="formFile" class="form-label">Gambar</label>
-                            <input class="form-control" type="file" id="formFile">
-                        </div>
-
-                        <div class="mb-3">
                             <label  class="form-label">Deskripsi</label>
-                            <input type="text" name="deskripsi" class="form-control">
+                            <textarea type="text" name="deskripsi" class="form-control"></textarea>
                         </div>
                         <div class="mb-3">
                             <label  class="form-label">Tanggal Penulisan</label>

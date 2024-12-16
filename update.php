@@ -32,7 +32,7 @@ echo "<script>alert('berhasil edit catatan sekolah');window.location.replace('in
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Edit Catatan</title>
-    <link href="styleu.css" rel="stylesheet">
+    <link href="style1.css" rel="stylesheet">
 </head>
 <body>
     <div class="box">
